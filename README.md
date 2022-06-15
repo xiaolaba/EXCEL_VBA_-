@@ -1,8 +1,11 @@
 
 # EXCEL - 如何將數字轉變成文字
-# EXCEL VBA - 如何將文字轉變成數字
+# [EXCEL VBA - 如何將文字轉變成數字](https://github.com/xiaolaba/EXCEL_VBA_number_text/blob/main/README.md#excel-vba---%E5%A6%82%E4%BD%95%E5%B0%87%E6%96%87%E5%AD%97%E8%BD%89%E8%AE%8A%E6%88%90%E6%95%B8%E5%AD%97-1)
 
 
+
+
+# EXCEL - 如何將數字轉變成文字
 ```
 'EXCEL - 如何將數字轉變成文字
 sub number2text
