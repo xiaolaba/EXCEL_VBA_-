@@ -4,6 +4,7 @@ EXCEL_VBA_數字變文字
 
 
 ```
+sub number2text
 'EXCEL_VBA_數字變文字  
 最大的行號 = Cells.Find(What:="*", SearchDirection:=xlPrevious, SearchOrder:=xlByRows).Row
     最大的列號 = Cells.Find(What:="*", SearchDirection:=xlPrevious, SearchOrder:=xlByColumns).Column
@@ -19,6 +20,6 @@ EXCEL_VBA_數字變文字
        
     '不斷的重複一上的動作, 直到最後一行
     Loop
-
+end-sub
 
 ```
